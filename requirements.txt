@@ -1,0 +1,12 @@
+typing
+fastapi
+pydantic
+secrets
+flask
+flask_restful
+flask_sqlalchemy
+flask_login
+flask_bcrypt
+flask_wtf
+wt
+uvicorn
